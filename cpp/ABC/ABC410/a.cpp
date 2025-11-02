@@ -11,7 +11,7 @@ int main(){
 
     int count = 0;
     for (int i = 0; i < N; i++){
-        if(A[i] % K == 0) count++;
+        if(A[i] >= K) count++;
     }
     cout << count << endl;  
     return 0;

@@ -30,4 +30,5 @@ int main(){
         if (i) cout << " ";
         cout << ans[i];
     }
+    return 0;
 }
