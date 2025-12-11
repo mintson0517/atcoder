@@ -10,4 +10,8 @@ int main(){
     else cout << "No" << endl;
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> ffd81676a29ce9b420d6ca772bb9cde0677e66aa
