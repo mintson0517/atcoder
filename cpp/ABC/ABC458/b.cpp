@@ -23,6 +23,8 @@ int main() {
             if (j < W - 1) cnt++;
 
             cout << cnt;
+
+            if(j != w-1) cout << " ":
         }
 
         cout << endl;
