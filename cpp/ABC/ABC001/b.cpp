@@ -15,3 +15,9 @@ int main() {
     cout << setw(2) << setfill('0') << vv << endl;
     return 0;
 }
+
+/*
+AtCoder問題文：https://atcoder.jp/contests/abc001/tasks/abc001_2
+YouTube解説動画：
+解説ブログ：
+*/
