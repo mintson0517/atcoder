@@ -26,5 +26,5 @@ int main(){
 /*
 AtCoder: https://atcoder.jp/contests/abc464/tasks/abc464_a
 ブログ解説：https://yorunekomint.com/?p=221
-YouTube解説：https://youtu.be/hZUOph07fB4
+YouTube解説：https://youtu.be/gx_AVAzdSdI
 */

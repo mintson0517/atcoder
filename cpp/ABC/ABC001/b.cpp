@@ -18,6 +18,6 @@ int main() {
 
 /*
 AtCoder問題文：https://atcoder.jp/contests/abc001/tasks/abc001_2
-YouTube解説動画：https://youtu.be/d6CQQjqLEnk
+YouTube解説動画：https://youtu.be/pUrY2dvWzGs
 解説ブログ：https://yorunekomint.com/?p=200
 */
